@@ -1,5 +1,10 @@
 # 💫 About Me:
-I'm currently working on creating a portfolio website to display my skills as a software engineer along with projects I have completed. I'm currently employed as a software engineer focusing on higher level programming for motion controls. I'm looking to collaborate on raspberry pi projects to improve home life. I'm currently learning Ruby on Rails, PySide6, Django, and Python. Ask about my trip to Paris with my grandmother. Fun fact from the young age of 8 I always thought I would become a Marine Biologist, that was until the week before I graduated high school. I took a gap year during the height of covid and then ended up going to school for computer engineering.
+I'm currently working on creating a portfolio website to display my skills as a software engineer along with projects I have completed. 
+I'm currently employed as a software engineer focusing on higher level programming for motion controls. 
+I'm looking to collaborate on raspberry pi projects to improve home life. 
+I'm currently learning Ruby on Rails, PySide6, Django, and Python. 
+Ask about my trip to Paris with my grandmother. 
+Fun fact from the young age of 8 I always thought I would become a Marine Biologist, that was until the week before I graduated high school. I took a gap year during the height of covid and then ended up going to school for computer engineering.
 
 
 # 💻 Tech Stack:
